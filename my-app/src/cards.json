@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "bevis & butthead",
+      "image": "./images/butthead.jpg",
+      "state": ""
+    },
+    {
+        "id": 2,
+        "name": "chick",
+        "image": "./images/chick.jpg",
+        "state": ""
+      },
+      {
+        "id": 3,
+        "name": "dexter",
+        "image": "./images/dexter.jpg",
+        "state": ""
+      },
+      {
+        "id": 4,
+        "name": "dog2",
+        "image": "./images/dog2.jpg",
+        "state": ""
+      },
+      {
+        "id": 5,
+        "name": "dude",
+        "image": "./images/dude.jpg",
+        "state": ""
+      },
+      {
+        "id": 6,
+        "name": "fatty",
+        "image": "./images/fatty.jpg",
+        "state": ""
+      },
+      {
+        "id": 7,
+        "name": "jhonny",
+        "image": "./images/jhonny.jpg",
+        "state": ""
+      },
+      {
+        "id": 8,
+        "name": "mario",
+        "image": "./images/mario.jpg",
+        "state": ""
+      },
+      {
+        "id": 9,
+        "name": "mickey",
+        "image": "./images/micky.png",
+        "state": ""
+      },
+      {
+        "id": 10,
+        "name": "nose",
+        "image": "./images/nose.jpg",
+        "state": ""
+      },
+      {
+        "id": 11,
+        "name": "powerpff",
+        "image": "./images/powerpff.jpg",
+        "state": ""
+      }
+      ,
+      {
+        "id": 12,
+        "name": "robin",
+        "image": "./images/robin.png",
+        "state": ""
+      }
+  ]
+  
